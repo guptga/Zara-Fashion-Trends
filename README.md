@@ -20,7 +20,7 @@ Predictive analytics is an advanced analytics method that leverages historical d
 
 
 
-### Dataset: https://github.com/guptga/Project_4--Zara-Fashion-Trends/tree/ad362d82ee4366e1af21c7b17df6719e935e8197/Data
+### Dataset: 
 
 
 
