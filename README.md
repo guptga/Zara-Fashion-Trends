@@ -16,15 +16,15 @@ Termeh Mohebbie
   
 
 # Introduction											
+Predictive analytics is an advanced analytics method that leverages historical data, statistical modeling, data mining, and machine learning techniques to predict future outcomes. Companies use predictive analytics to identify risks and opportunities by finding patterns in data. Predictive analytics is associated with big data and data science. Data scientists use machine learning algorithms such as deep learning, logistic and linear regression models, neural networks, and decision trees to make predictions and gain insights from data. These modeling techniques can build on initial predictive insights to make additional predictions.
 
 
 
-### Dataset
+### Dataset: https://github.com/guptga/Project_4--Zara-Fashion-Trends/tree/ad362d82ee4366e1af21c7b17df6719e935e8197/Data
 
 
 
-### Goal:
-
+### Goal: The main goal is to predict best-performing products for the last week in terms of revenue using the previous weeks data
 
 
 # ETL				
