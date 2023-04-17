@@ -36,7 +36,7 @@ Predictive analytics is an advanced analytics method that leverages historical d
 
 #### Feature Selection
 
-***Correlation Matrix with Heatmap*** - Correlation states how the features are related to each other or the target variable. Correlation can be positive (an increase in one value of a feature increases the value of the target variable) or negative (an increase in one value of the feature decreases the value of the target variable).  Heatmap makes it easy to identify which features are most related to the target variable, we will plot a heatmap of correlated features using the Seaborn library.
+***Correlation Matrix with Heatmap*** - Correlation is a measure of how features are related to each other or the target variable, and can be positive or negative. Positive correlation means an increase in one feature value leads to an increase in the target variable value, while negative correlation means an increase in one feature value leads to a decrease in the target variable value. To identify which features are most related to the target variable, a heatmap of correlated features can be plotted using the Seaborn library. The heatmap makes it easy to visualize the degree of correlation between different features and the target variable.
 
 ![image](https://user-images.githubusercontent.com/116124534/232615274-3d7a400d-6986-4e93-9d5b-4c775a4dca63.png)
 
