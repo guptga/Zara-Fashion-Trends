@@ -8,14 +8,14 @@ The main goal if this project is to use sales data from previous weeks to predic
 
 **EDA**<br><br>
 
-We first summarize data 
-![image](https://user-images.githubusercontent.com/116039323/232681011-73c66132-cd58-4995-ad99-3affcd1f5630.png)
+We first summarize data <br>
+![image](https://user-images.githubusercontent.com/116039323/232681011-73c66132-cd58-4995-ad99-3affcd1f5630.png)<br>
 
-We made a line chart to display the trend of sales over weeks
-![image](https://user-images.githubusercontent.com/116039323/232681316-5907b2be-1857-40ab-83de-b0c635afcf86.png)
+We made a line chart to display the trend of sales over weeks<br>
+![image](https://user-images.githubusercontent.com/116039323/232681316-5907b2be-1857-40ab-83de-b0c635afcf86.png)<br>
 
-A correlation heat map was created to determine correlation strengths between columns
-![image](https://user-images.githubusercontent.com/116039323/232681542-bdeb8381-ba40-40b7-8c1e-1ae13d3a821c.png)
+A correlation heat map was created to determine correlation strengths between columns<br>
+![image](https://user-images.githubusercontent.com/116039323/232681542-bdeb8381-ba40-40b7-8c1e-1ae13d3a821c.png)<br>
 
 We created pie charts for color and stock number organizzed by price
 ![image](https://user-images.githubusercontent.com/116039323/232681728-b3190ba6-727b-4d9a-a091-e048de7d831d.png)
