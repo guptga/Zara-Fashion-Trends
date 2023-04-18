@@ -8,11 +8,12 @@
 Predictive analytics is an advanced analytics method that leverages historical data, statistical modeling, data mining, and machine learning techniques to predict future outcomes. Companies use predictive analytics to identify risks and opportunities by finding patterns in data. Predictive analytics is associated with big data and data science. Data scientists use machine learning algorithms such as deep learning, logistic and linear regression models, neural networks, and decision trees to make predictions and gain insights from data. These modeling techniques can build on initial predictive insights to make additional predictions.
 
 
-## Objective: The main goal of this project is to use sales data from previous weeks to predict best performing products.
+## Objective: 
+
+The main goal of this project is to use sales data from previous weeks to predict best performing products.
 
 ## Methodology
 
-### Data Transformation, EDA and Feature Engineering 
 
 **EDA**<br>
 
@@ -25,7 +26,7 @@ We made a line chart to display the trend of sales over weeks<br>
 A correlation heat map was created to determine correlation strengths between columns<br>
 ![image](https://user-images.githubusercontent.com/116039323/232681542-bdeb8381-ba40-40b7-8c1e-1ae13d3a821c.png)<br>
 
-We created pie charts for color and stock number organizzed by price
+We created pie charts for color and stock numbers organized by price
 ![image](https://user-images.githubusercontent.com/116039323/232681728-b3190ba6-727b-4d9a-a091-e048de7d831d.png)
 
 
@@ -51,13 +52,18 @@ Raw data was in 4 csvs
 ML models used are RF, XG Boost and DL
 
 Below are the experiment results:
+
 ![Screenshot (9)](https://user-images.githubusercontent.com/116039323/232682613-0e9deae3-0971-4c78-baa9-a54203ca2468.png)
 
 We then made a relevance bar chart 
+
 ![image](https://user-images.githubusercontent.com/116039323/232682917-b27dffef-54e3-4651-aad1-9bf97aaf3ddf.png)
 
 Here are our predictability accuracy rates
+
 ![Screenshot (11)](https://user-images.githubusercontent.com/116039323/232683161-fa908d4a-c2f5-49f0-85d8-6f65b5d451e7.png)<br>
+
+
 There is absolutely room to improve but we are happy with these results
 
 
