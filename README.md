@@ -27,7 +27,10 @@ A correlation heat map was created to determine correlation strengths between co
 ![image](https://user-images.githubusercontent.com/116039323/232681542-bdeb8381-ba40-40b7-8c1e-1ae13d3a821c.png)<br>
 
 We created pie charts for color and stock numbers organized by price
-![image](https://user-images.githubusercontent.com/116039323/232681728-b3190ba6-727b-4d9a-a091-e048de7d831d.png)
+
+![image](https://user-images.githubusercontent.com/116124534/232896435-d0673e37-dd6c-4408-818e-96a4e12ada5c.png)
+
+
 
 
 **Data Transformation**<br><br>
