@@ -6,7 +6,7 @@ The main goal if this project is to use sales data from previous weeks to predic
 
 ### Data Transformation, EDA and Feature Engineering 
 
-** EDA **
+**EDA**<br><br>
 
 We first summarize data 
 ![image](https://user-images.githubusercontent.com/116039323/232681011-73c66132-cd58-4995-ad99-3affcd1f5630.png)
@@ -21,7 +21,7 @@ We created pie charts for color and stock number organizzed by price
 ![image](https://user-images.githubusercontent.com/116039323/232681728-b3190ba6-727b-4d9a-a091-e048de7d831d.png)
 
 
-** Data Transformation **
+**Data Transformation**<br><br>
 
 Raw data was in 4 csvs
 
@@ -48,7 +48,7 @@ Below are the experiment results:
 We then made a relevance bar chart 
 ![image](https://user-images.githubusercontent.com/116039323/232682917-b27dffef-54e3-4651-aad1-9bf97aaf3ddf.png)
 
-Here are our predoctibility accuracy rates
+Here are our predictability accuracy rates
 ![Screenshot (11)](https://user-images.githubusercontent.com/116039323/232683161-fa908d4a-c2f5-49f0-85d8-6f65b5d451e7.png)
 There is absolutely room to improve but we are happy with these results
 
