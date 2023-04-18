@@ -6,7 +6,7 @@ The main goal if this project is to use sales data from previous weeks to predic
 
 ### Data Transformation, EDA and Feature Engineering 
 
-**EDA**<br><br>
+**EDA**<br>
 
 We first summarize data <br>
 ![image](https://user-images.githubusercontent.com/116039323/232681011-73c66132-cd58-4995-ad99-3affcd1f5630.png)<br>
@@ -49,7 +49,7 @@ We then made a relevance bar chart
 ![image](https://user-images.githubusercontent.com/116039323/232682917-b27dffef-54e3-4651-aad1-9bf97aaf3ddf.png)
 
 Here are our predictability accuracy rates
-![Screenshot (11)](https://user-images.githubusercontent.com/116039323/232683161-fa908d4a-c2f5-49f0-85d8-6f65b5d451e7.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/116039323/232683161-fa908d4a-c2f5-49f0-85d8-6f65b5d451e7.png)<br>
 There is absolutely room to improve but we are happy with these results
 
 
