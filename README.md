@@ -1,8 +1,16 @@
 # Zara Fashion Trends
 
-The main goal of this project is to use sales data from previous weeks to predict best performing products.
 
-## Components:
+![image](https://cloudinary.hbs.edu/hbsit/image/upload/s--YocdHEbD--/f_auto,c_fill,h_375,w_750,/v20200101/A17A58369E0D9FBC28574F424FBDB551.jpg)
+
+
+# Introduction											
+Predictive analytics is an advanced analytics method that leverages historical data, statistical modeling, data mining, and machine learning techniques to predict future outcomes. Companies use predictive analytics to identify risks and opportunities by finding patterns in data. Predictive analytics is associated with big data and data science. Data scientists use machine learning algorithms such as deep learning, logistic and linear regression models, neural networks, and decision trees to make predictions and gain insights from data. These modeling techniques can build on initial predictive insights to make additional predictions.
+
+
+## Objective: The main goal of this project is to use sales data from previous weeks to predict best performing products.
+
+## Methodology
 
 ### Data Transformation, EDA and Feature Engineering 
 
@@ -53,7 +61,14 @@ Here are our predictability accuracy rates
 There is absolutely room to improve but we are happy with these results
 
 
+## Team Members: 
+Elsa Figueroa
 
+Gauri Gupta
+
+Miga Budaasuren
+
+Termeh Mohebbie
 
 
 [^1]: Interestingly, this new feature ended up being second important feature in the last (or best) model.
