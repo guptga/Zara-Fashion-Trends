@@ -25,15 +25,15 @@ We created pie charts for color and stock number organizzed by price
 
 Raw data was in 4 csvs
 
-1.First thing done was organize the positions data and add cols pos_count, pos_min (the min amount of times item occurs on a certian day), pos_max (same as above but max), pos_mean
+1. First thing done was organize the positions data and add cols pos_count, pos_min (the min amount of times item occurs on a certian day), pos_max (same as above but max), pos_mean
 
-2.Next, we move to the blocks data where first of all we sort the data and add col num_itmes counting the number of items in each particular block
+2. Next, we move to the blocks data where first of all we sort the data and add col num_itmes counting the number of items in each particular block
 
-3.For the sales_stock we remove color andsize as it is not relevant for the scope of our project but we did keep it for our EDA as we thought it was intersting information that maybe could be explored further in the future. we then aggregate by product_id
+3. For the sales_stock we remove color andsize as it is not relevant for the scope of our project but we did keep it for our EDA as we thought it was intersting information that maybe could be explored further in the future. we then aggregate by product_id
 
-4.We then merged all the transformed data 
+4. We then merged all the transformed data 
 
-5.With this dataframe we cluster day 84 weuse cols product_id num_items stock price and pos_ count and drop non-numerical values, normalize the data with scaler
+5. With this dataframe we cluster day 84 weuse cols product_id num_items stock price and pos_ count and drop non-numerical values, normalize the data with scaler
 
 6. We determined was the optimal number of clusters is 4 and we plot these clusters, we then merge the cluster data with the final dataframe we created earlier withthe transformed data
 
