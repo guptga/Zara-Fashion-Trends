@@ -70,16 +70,6 @@ Here are our predictability accuracy rates
 There is absolutely room to improve but we are happy with these results
 
 
-## Team Members: 
-Elsa Figueroa
-
-Gauri Gupta
-
-Miga Budaasuren
-
-Termeh Mohebbie
-
-
 [^1]: Interestingly, this new feature ended up being second important feature in the last (or best) model.
 
 
